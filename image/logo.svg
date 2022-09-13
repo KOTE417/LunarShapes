@@ -1,0 +1,17 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#000000" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke-dasharray="5,5" id="svg_8" d="m398.68297,366.086155l0,0c-107.133728,0 -193.999993,-73.188581 -193.999993,-163.500005c0,-90.299854 86.866265,-163.500005 193.999993,-163.500005l0,0c-61.055565,38.595812 -96.993334,99.173651 -96.993334,163.500005s35.937769,124.892623 96.993334,163.500005z" stroke-opacity="null" stroke-width="1.5" stroke="#ffffff" fill="none"/>
+  <text stroke="#ffffff" transform="matrix(3.2668391958122807,0,0,4.740142067458208,-132.45822074353998,-667.7868443084585) " xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="24" id="svg_5" y="187.71843" x="69.096193" stroke-width="0" fill="#ffffff">lunar shapes</text>
+  <ellipse ry="18.5" rx="18" id="svg_6" cy="193.75" cx="527.3" stroke-width="1.5" stroke="#ffffff" fill="#ffffff"/>
+  <ellipse ry="18.5" rx="18" id="svg_7" cy="190.75" cx="51.3" stroke-width="1.5" stroke="#ffffff" fill="#ffffff"/>
+ </g>
+</svg>
